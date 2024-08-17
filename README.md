@@ -1,3 +1,16 @@
+# HACKIFY 
+Hi everyone this si hackify, my very own spotify local client. I built it using this tutorial and a lot of customization afterwards. 
+https://developer.spotify.com/documentation/web-playback-sdk/howtos/web-app-player
+
+#SCREENSHOTS 
+
+![Screenshot of Hackify](1.png)
+![Screenshot of Hackify](2.png)
+![Screenshot of Hackify](3.png)
+![Screenshot of Hackify](4.png)
+![Screenshot of Hackify](5.png)
+
+
 # Web Playback SDK Javascript Tutorial
 
 This repository contains the source code for the [Web Playback SDK Guide](https://developer.spotify.com/documentation/web-playback-sdk/guide/).
